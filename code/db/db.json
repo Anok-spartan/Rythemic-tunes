@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Butta Bomma",
+      "singer": "Armaan Malik",
+      "genre": "Dance",
+  "imgUrl": "/Songs/ButtaBomma.jpg",
+      "songUrl": "Songs/Butta Bomma.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Samajavaragamana",
+      "singer": "Sid Sriram",
+      "genre": "Melody",
+  "imgUrl": "/Songs/Samajavaragamana.jpg",
+      "songUrl": "Songs/Samajavaragamana.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Vachindamma",
+      "singer": "Sid Sriram",
+      "genre": "Romantic",
+  "imgUrl": "/Songs/Vachindamma.jpg",
+      "songUrl": "Songs/Vachindamma.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Ramuloo Ramulaa",
+      "singer": "Anurag Kulkarni",
+      "genre": "Folk",
+  "imgUrl": "/Songs/RamulooRamulaa.jpg",
+      "songUrl": "Songs/Ramuloo Ramulaa.mp3"
+    }
+  ],
+  "favorities": [],
+  "playlist": []
+}

@@ -1,0 +1,9 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+body{
+  background: #000;
+  background: linear-gradient(135deg, #000 0%, #b71c1c 100%);
+}
